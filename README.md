@@ -9,7 +9,7 @@ Basically this a repository where I will be saving all the projects I do about f
 2. [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
    ![](./assets/basic-html-website.png)
 
-3. [Personal Portfolio](https://roadmap.sh/projects/basic-html-website)
+3. [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
    ![](./assets/personal-portfolio.png)
 
 ## Intermediate
