@@ -10,7 +10,10 @@ Basically this a repository where I will be saving all the projects I do about f
    ![](./assets/basic-html-website.png)
 
 3. [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
-   ![](./assets/personal-portfolio.png)
+   ]![](./assets/personal-portfolio.png)
+
+4. [Changelog Component](https://roadmap.sh/projects/changelog-component)
+   ]![](./assets/changelog-component.png)
 
 ## Intermediate
 
