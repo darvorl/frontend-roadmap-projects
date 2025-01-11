@@ -15,6 +15,9 @@ Basically this a repository where I will be saving all the projects I do about f
 4. [Changelog Component](https://roadmap.sh/projects/changelog-component)
    ![](./assets/changelog-component.png)
 
+5. [Changelog Component](https://roadmap.sh/projects/testimonial-cards)
+   ![](./assets/testimonial-cards.png)
+
 ## Intermediate
 
 ## Advanced

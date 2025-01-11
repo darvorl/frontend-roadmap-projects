@@ -1,7 +1,7 @@
 :root {
     --clr--accent--900: #9d5c6b;
     --clr--accent--700: #a66a77;
-    --clr--black: #101010;
+    --clr--black: #181818;
     --clr--white: #efefef;
     color: var(--clr--black);
 }
