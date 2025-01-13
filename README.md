@@ -18,6 +18,9 @@ Basically this a repository where I will be saving all the projects I do about f
 5. [Testimonial Cards](https://roadmap.sh/projects/testimonial-cards)
    ![](./assets/testimonial-cards.png)
 
+6. [Datepicker UI](https://roadmap.sh/projects/datepicker-ui)
+   ![](./assets/datepicker-ui.png)
+
 ## Intermediate
 
 ## Advanced
